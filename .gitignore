@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 covid_us_county.csv
 Part_1_Crime_Data.csv
+Chicago_Crime_2001-2022.zip
